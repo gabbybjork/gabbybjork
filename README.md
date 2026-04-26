@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gabby</h1>
-<h3 align="center">A passionate frontend developer from Arizona</h3>
+<h1 align="center">Hi 👋, I'm Gabrielle! (Gabby) </h1>
+<h3 align="center">A passionate student from Arizona studying Information Systems Management</h3>
+<h3 align="center"> Currently learning HTML, CSS, JavaScript, MySQL, and Python. </h3>
 
 - 🌱 I’m currently learning **React Front-end Development**
 
