@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student from Arizona studying Information Systems Management</h3>
 <h3 align="center"> Currently learning HTML, CSS, JavaScript, MySQL, and Python. </h3>
 
-- 🌱 I’m currently learning **React Front-end Development**
+- 🌱 I’m currently learning **Regression Analysis and Website Building using DBMS**
 
 - 📫 How to reach me **gabriellebjorklund@gmail.com**
 
